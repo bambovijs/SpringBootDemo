@@ -1,6 +1,8 @@
 # SpringBootDemo - Employee Management System
 This is a demo project for managing employees using a full-stack application. The project includes both frontend and backend components.  
 
+![Example GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWluMWx3aHJibzZ4eGU2aXJoeXA1NTc4Y3hzYnIwOWVvZmVoM25jciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mJ6jHltz0OUYAEnMeN/200.gif)
+
 ## Technologies Used
 ### Frontend
 - JavaScript
